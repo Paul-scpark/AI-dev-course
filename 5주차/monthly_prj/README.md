@@ -10,7 +10,7 @@
 ## Tech 🛠
 - [Selenium](https://www.selenium.dev/)
 - [Django](https://www.djangoproject.com/)
-- [Bootstrap](https://getbootstrap.com/) -> Used template: [Concept – Free Bootstrap 4 HTML5 admin template](https://themewagon.com/themes/free-bootstrap-4-html5-admin-dashboard-template-concept/)
+- [Bootstrap](https://getbootstrap.com/)
 - [Plotly](https://plotly.com/python/)
 - [Chart Studio](https://plotly.com/chart-studio-help/tutorials/)
 - [Heroku](https://dashboard.heroku.com/)
@@ -23,3 +23,4 @@
 
 ## Ref 🙏
 - heroku 배포시 참고한 [사이트1](https://integer-ji.tistory.com/11), [사이트2](https://dev-yakuza.posstree.com/ko/django/heroku/)
+- 베이스라인으로 활용했던 bootstrap template인 [Concept – Free Bootstrap 4 HTML5 admin template](https://themewagon.com/themes/free-bootstrap-4-html5-admin-dashboard-template-concept/)
