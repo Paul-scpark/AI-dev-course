@@ -23,4 +23,5 @@
 
 ## Ref 🙏
 - heroku 배포시 참고한 [사이트1](https://integer-ji.tistory.com/11), [사이트2](https://dev-yakuza.posstree.com/ko/django/heroku/)
+- plotly를 chart studio로 프론트 페이지와 연동할 때 참고했던 [사이트](https://zephyrus1111.tistory.com/154)
 - 베이스라인으로 활용했던 bootstrap template인 [Concept – Free Bootstrap 4 HTML5 admin template](https://themewagon.com/themes/free-bootstrap-4-html5-admin-dashboard-template-concept/)
