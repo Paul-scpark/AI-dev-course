@@ -22,6 +22,6 @@
 <img width="1418" alt="스크린샷 2022-10-22 오전 12 59 46" src="https://user-images.githubusercontent.com/75621410/197239001-6ebda8e6-df57-412a-a03c-1516fda3775b.png">
 
 ## Ref 🙏
-- heroku 배포시 참고한 [사이트1](https://integer-ji.tistory.com/11), [사이트2](https://dev-yakuza.posstree.com/ko/django/heroku/)
+- heroku 배포시 참고한 자료: [사이트1](https://integer-ji.tistory.com/11), [사이트2](https://dev-yakuza.posstree.com/ko/django/heroku/)
 - plotly를 chart studio로 프론트 페이지와 연동할 때 참고했던 [사이트](https://zephyrus1111.tistory.com/154)
 - 베이스라인으로 활용했던 bootstrap template인 [Concept – Free Bootstrap 4 HTML5 admin template](https://themewagon.com/themes/free-bootstrap-4-html5-admin-dashboard-template-concept/)
